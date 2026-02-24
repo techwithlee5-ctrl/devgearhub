@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Apple MacBook Air M2",
+    "category": "laptop",
+    "best_for": ["developers", "programmers", "mac users"],
+    "price": "$999 - $1199",
+    "features": [
+      "Apple M2 chip",
+      "16GB unified memory",
+      "512GB SSD",
+      "18-hour battery"
+    ],
+    "link": "https://www.amazon.com/dp/B0XXXX/?tag=yourtag-20"
+  },
+  {
+    "name": "Dell XPS 15",
+    "category": "laptop",
+    "best_for": ["developers", "designers"],
+    "price": "$1399 - $1899",
+    "features": [
+      "Intel i7",
+      "16GB RAM",
+      "1TB SSD",
+      "15.6\" OLED display"
+    ],
+    "link": "https://www.amazon.com/dp/B0YYYY/?tag=yourtag-20"
+  }
+]
